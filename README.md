@@ -54,8 +54,8 @@ An all-in-one proxy solution for developers and traders who need reliability, sc
 
 👉 Learn more: Nstproxy.com | Dashboard
 
+_**Use code: AIRDROP to get 5% OFF**_
+
 **Telegram**: https://t.me/nstproxy
 
 **Discord**: https://discord.gg/5jjWCAmvng
-
-Use code: AIRDROP to get 5% OFF

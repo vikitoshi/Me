@@ -30,7 +30,7 @@ If you find my projects and contributions helpful, feel free to buy me a coffee!
 
 **ERC20 : 0x09420110120e9b515BAdE5F576fe39fe437762D6**
 
-**💎 Recommended Tool: [Nstproxy](https://www.nstproxy.com/?utm_source=airdrop&utm_medium=referral&utm_campaign=partner)**
+**💎 Recommended Tool: [Nstproxy](https://www.nstproxy.com/?utm_source=airdrop)**
 <div align="center">
 <a href="https://freeimage.host/i/FD0Ryrv" target="_blank" rel="noopener noreferrer">
 <img src="https://iili.io/FD0Ryrv.md.jpg" alt="Nstproxy Banner" border="0" style="width:100%; max-width:800px;">
@@ -52,7 +52,7 @@ Key Features:
 
 An all-in-one proxy solution for developers and traders who need reliability, scalability, and cost efficiency.
 
-👉 Learn more: [Nstproxy.com](https://www.nstproxy.com/?utm_source=airdrop&utm_medium=referral&utm_campaign=partner)
+👉 Learn more: [Nstproxy.com](https://www.nstproxy.com/?utm_source=airdrop)
 
 _**Use code: AIRDROP to get 5% OFF**_
 
